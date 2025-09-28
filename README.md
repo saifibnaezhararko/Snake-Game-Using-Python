@@ -15,7 +15,7 @@ Eat the food, grow longer, and avoid crashing into the walls or yourself!
 
 ## 📸 Screenshots
 ### Start Screen  
-![Snake Start Screen](snake 1.PNG)
+![Snake Start Screen](snake1.PNG)
 
 ### Gameplay  
 ![Snake Gameplay](snake 2.png)
