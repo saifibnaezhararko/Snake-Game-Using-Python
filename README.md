@@ -18,7 +18,7 @@ Eat the food, grow longer, and avoid crashing into the walls or yourself!
 ![Snake Start Screen](snake1.PNG)
 
 ### Gameplay  
-![Snake Gameplay](snake 2.png)
+![Snake Gameplay](snake2.png)
 
 ## ⚙️ Installation
 Make sure you have Python installed (3.8+ recommended).  
